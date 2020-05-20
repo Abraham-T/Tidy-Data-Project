@@ -15,6 +15,6 @@ Goal | Item | Link to Item
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/Abraham-T/Tidy-Data-Project/blob/master/run_analysis.R "run_analysis.R")
 Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/Abraham-T/Tidy-Data-Project/blob/master/tidyData.txt "tidyData.txt")
 Github Repo | Repo |  [Repo Link](https://github.com/Abraham-T/Tidy-Data-Project)
-Codebook | CodeBook.md |  [Repo Link](https://github.com/Abraham-T/Tidy-Data-Project/blob/master/CodeBook.md"CodeBook.md")
+Codebook | CodeBook.md |  [Repo Link](https://github.com/Abraham-T/Tidy-Data-Project/blob/master/CodeBook.md "CodeBook.md")
 README | ReadingItNow |  [Repo Link](https://github.com/Abraham-T/Tidy-Data-Project/blob/master/README.md "README.md")
 
